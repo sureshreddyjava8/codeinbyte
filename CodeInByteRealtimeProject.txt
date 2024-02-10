@@ -1,0 +1,7 @@
+class CodeInByte
+{
+ psvm(String args[])
+ {
+  Sopln("Hello Codeinbyte....Please welcome");
+ }
+}
